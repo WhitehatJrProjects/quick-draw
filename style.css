@@ -1,0 +1,41 @@
+body{
+    background-color: #7aa4ff;
+    font-family: 'Fuzzy Bubbles', cursive;
+    font-family: 'Rubik', sans-serif;
+}
+
+#show_sketch{
+    float: right;
+    margin-right: 50px;
+}
+
+#title{
+    align-items: center;
+    margin-left: 130px;
+}
+#your_sketch{
+    margin-top: 30;
+    font-size: 30px;
+}
+#Confidence{
+    margin-top: 30;
+    font-size: 30px;
+}
+#your_sketch{
+    margin-top: 30;
+    font-size: 30px;
+}
+#score{
+    float: left;
+    margin-left: 50px;
+}
+
+#timer{
+    float: right;
+    margin-right: 50px;
+}
+
+#sketch_to_draw{
+    margin-top: 50px;
+    font-size: 30px;
+}
